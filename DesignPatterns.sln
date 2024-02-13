@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonCreationalDP", "DesignPatterns\SingletonCreationalDP.csproj", "{1478F1F2-9803-4953-BF83-11C6A5AD382B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryDesignPattern", "FactoryDesignPattern\FactoryDesignPattern.csproj", "{99A27985-38CC-49AC-A3BE-2DAB943B37C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1478F1F2-9803-4953-BF83-11C6A5AD382B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1478F1F2-9803-4953-BF83-11C6A5AD382B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1478F1F2-9803-4953-BF83-11C6A5AD382B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1478F1F2-9803-4953-BF83-11C6A5AD382B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99A27985-38CC-49AC-A3BE-2DAB943B37C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99A27985-38CC-49AC-A3BE-2DAB943B37C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99A27985-38CC-49AC-A3BE-2DAB943B37C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99A27985-38CC-49AC-A3BE-2DAB943B37C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFBC1480-3E27-451C-85A9-E7BBA086A8B3}
+	EndGlobalSection
+EndGlobal
